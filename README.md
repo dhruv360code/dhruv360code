@@ -19,6 +19,9 @@
 - 💬 Ask me about **ReactJS, MongoDB, ExpressJS and NodeJS**
 
 - 📫 How to reach me **dhruvtiwari003@gmail.com**
+  
+- 📊 Have a look at my resume
+   https://drive.google.com/file/d/1HFZIv5wYvoDRCf7-h6cL52tPiQqiyGWf/view
 
 <br>
 
