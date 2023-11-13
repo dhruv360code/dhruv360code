@@ -1,5 +1,26 @@
-# 💫 About Me:
-Student at UIT RGPV, Bhopal.<br>CSE, 4th year.
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi 👋, I'm Dhruv Tiwari</h1>
+<h3 align="center">A passionate Full- Stack Developer</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=dhruv360code&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently working on **FinT*
+
+- 🌱 I’m currently learning **ML**
+
+- 💬 Ask me about **ReactJS, MongoDB, ExpressJS and NodeJS**
+
+- 📫 How to reach me **dhruvtiwari003@gmail.com**
+
+<br>
 
 
 ## 🌐 Socials:
@@ -12,10 +33,9 @@ Student at UIT RGPV, Bhopal.<br>CSE, 4th year.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhruv360code&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv360code&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhruv360code&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+//![](https://github-profile-trophy.vercel.app/?username=dhruv360code&theme=flat&no-frame=false&no-bg=false&margin-w=4) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dhruv360code&icon=0&color=1)](https://visitcount.itsvg.in)
-
+ <img src="https://komarev.com/ghpvc/?username=dhruv360code&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
